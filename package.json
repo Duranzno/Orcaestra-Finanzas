@@ -29,7 +29,7 @@
     "feather-icons": "^4.7.3",
     "http-error": "0.0.6",
     "jsdom": "^12.1.0",
-    "mongoose": "5.2.8",
+    "mongoose": "5.7.5",
     "multer": "^1.4.0",
     "prettier": "^1.14.3",
     "require": "^2.4.20",
